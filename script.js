@@ -1,4 +1,3 @@
-console.log("Hello world!");
 const body = document.getElementById("bodyIframe");
 
 body.addEventListener("load", function() {
