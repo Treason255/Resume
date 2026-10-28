@@ -89,9 +89,22 @@ html {
 
 /*****/
 
+h2 {
+    font-size: larger;
+}
+
 div.section {
     width: 40%;
     margin: 15px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border:3px solid black;
+    padding: 10px;
 }
 
 footer {
